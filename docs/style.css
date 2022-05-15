@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@300&family=Lora:wght@500&display=swap');
+
+*{
+    box-sizing: border-box;
+    
+}
+
+h1 {
+font-family: Lora, serif;
+}
+
+body {
+    background-color: rgb(151, 223, 232);
+    font-size: 16px;
+    font-family: Be Vietnam Pro, Tahoma, sans-serif;
+    
+}
+
+h3{
+    font-weight: bold;
+}
+.forecast{
+    font-size: 0.8em;
+    padding-left: 100em;
+}
+span{
+    font-size: 1em;
+}
+li:hover{
+    background-color: rgb(127, 180, 228);
+    text-decoration: underline;
+}
